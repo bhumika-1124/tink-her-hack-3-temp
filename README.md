@@ -1,39 +1,33 @@
-# [Project Name] 🎯
+# MediJeevan 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: The Rock
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Bhumika Jayan- College of Engineering ,Adoor
+- Member 2: Kripa Krishnan - College of Engineering,Adoor
+- Member 3: G C Venus Krishna - College of Engineering,Adoor
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+MediJeevan is a website which provides the details of the medical services available in a certain radius from the locality 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Solvest the need of medical services in the case of an emergency 
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+By using VS ofc!, we used html and css scrpts to write the code and implement it.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- html
+- css
+- Git
 
 ### Implementation
 For Software:
@@ -47,14 +41,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1QFqNAxilpvAeszL2ttZSGpF6BurR2Ko9?usp=sharing
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
