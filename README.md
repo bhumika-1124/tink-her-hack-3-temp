@@ -11,7 +11,7 @@
 - Member 3: G C Venus Krishna - College of Engineering,Adoor
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://incandescent-tanuki-a2cee3.netlify.app/
 
 ### Project Description
 MediJeevan is a website which provides the details of the medical services available in a certain radius from the locality 
