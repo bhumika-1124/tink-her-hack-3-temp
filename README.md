@@ -17,10 +17,10 @@ https://incandescent-tanuki-a2cee3.netlify.app/
 MediJeevan is a website which provides the details of the medical services available in a certain radius from the locality 
 
 ### The Problem statement
-Solvest the need of medical services in the case of an emergency 
+Solves the need of medical services in the case of an emergency 
 
 ### The Solution
-By using VS ofc!, we used html and css scrpts to write the code and implement it.
+By using VS ofc!, we used html and css scripts to write the code and implement it.
 
 ## Technical Details
 ### Technologies/Components Used
