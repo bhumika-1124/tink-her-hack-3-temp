@@ -1,0 +1,17 @@
+.hospital-container{
+    background-image: url('/public//hospital.png.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    font-family:"BreefSeif";
+}
+
+.medical-card{
+    font-family:"Bree-Serif";
+    margin-bottom: 20px;
+}
+
+.heading-card {
+    font-family:"Roboto";
+}

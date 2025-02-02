@@ -1,0 +1,65 @@
+/* Importing fonts from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+/* Background container */
+.bg-container {
+    background-image: url("https://img.freepik.com/free-vector/hospital-building-concept-illustration_114360-8440.jpg?t=st=1738417613~exp=1738421213~hmac=0d90a0033e328c1326d974e2ac6dc2b0258a15f15e1f10881e27f58b60398175&w=1060");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+/* Card style for health care information */
+.health-care-card {
+    text-align: center;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slight transparency */
+    padding: 15px;
+    width: 80%;
+    max-width: 500px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Main heading */
+.main-heading {
+    font-family: 'Bree Serif', serif;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Paragraph style */
+.paragraph {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+/* Button style */
+button {
+    height: 40px;
+    width: 160px;
+    border-radius: 25px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:focus {
+    outline: none;
+}
+
+
+
+

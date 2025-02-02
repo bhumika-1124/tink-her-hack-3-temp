@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Services</title>
+    <link rel="stylesheet" href="location.css">
+</head>
+
+<body>
+
+
+    <div class="hospital-container ">
+        <div class="medical-card">
+            <h1 class="heading-card">Nearby Hospitals and Medical Services</h1>
+
+            <label for="location">Enter your location (latitude,longitude): </label>
+            <input type="text" id="location" placeholder="latitude, longitude">
+            <button onclick="fetchData()">Get Services</button>
+
+            <a href="https://lifelinehospitalkerala.com/">
+                <h2>Hospitals</h2>
+            </a>
+            <ul id="hospitals-list"></ul>
+            <a href="https://lifelinehospitalkerala.com/our-doctors/">
+                <h2>Doctors</h2>
+            </a>
+            <ul id="doctors-list"></ul>
+            <a href="https://www.info24.in/view-business.php?id=QUJDREVGfDIwMDAz">
+                 <h2>Ambulance Services</h2>
+            </a>
+            <ul id="ambulance-list"></ul>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
